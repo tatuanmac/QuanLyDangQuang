@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "662746075813",
+    "firebase_url": "https://shopwatch-1a3db.firebaseio.com",
+    "project_id": "shopwatch-1a3db",
+    "storage_bucket": "shopwatch-1a3db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662746075813:android:d1a90080dcc9f3c9",
+        "android_client_info": {
+          "package_name": "dev.tatuan.hh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662746075813-03a5o1dnlm64ta0llf6bk01rlm393du8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tatuan.hh",
+            "certificate_hash": "70d6d2451bf069d7e707ab64819f7c5e260e998c"
+          }
+        },
+        {
+          "client_id": "662746075813-qs7v1co43ia48f08v3atqbcrdbjlkaei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1zjK-WjSdU0oMAESGNH3hM5-N5DAKyj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662746075813-qs7v1co43ia48f08v3atqbcrdbjlkaei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662746075813:android:30edc8b05c2714e1",
+        "android_client_info": {
+          "package_name": "dev.tatuan.qldh2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662746075813-gjndqjcubl6t7m55n7ofch21ltp4ocqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tatuan.qldh2",
+            "certificate_hash": "70d6d2451bf069d7e707ab64819f7c5e260e998c"
+          }
+        },
+        {
+          "client_id": "662746075813-qs7v1co43ia48f08v3atqbcrdbjlkaei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1zjK-WjSdU0oMAESGNH3hM5-N5DAKyj4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662746075813-qs7v1co43ia48f08v3atqbcrdbjlkaei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
